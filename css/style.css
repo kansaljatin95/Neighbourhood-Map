@@ -1,0 +1,23 @@
+.header
+{
+	background-color: skyblue;
+	color: antiquewhite;
+	margin-bottom: 10px;
+    
+}
+#map
+{
+	border: solid 2px black;
+	height: 525px;
+	position: relative;
+    
+}
+.clist
+{
+	font-size: 25px;
+	padding: 10px;
+	cursor:pointer;
+    background-color: bisque;
+    
+}
+
